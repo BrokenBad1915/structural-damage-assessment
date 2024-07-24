@@ -1,1 +1,1 @@
-# structural-hurricane-damage-assessment
+# Structural-hurricane-damage-assessment
